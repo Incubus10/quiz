@@ -103,3 +103,9 @@ int main(){
     
 
 }
+ if(ans=='d'||ans=='D'){
+                d++;
+            }
+            
+            printf("So as you have answer all the question here is your result");
+            printf("So you got total %d correct in total of 10",d);
